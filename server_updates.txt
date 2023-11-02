@@ -1,1 +1,4 @@
-TESTING SERVER UPDATE LABEL THANK U
++ Added Lifesteal Mod
++ Fix various bug and glitches
+
+Server is available to Bedrock and Java Edition.
