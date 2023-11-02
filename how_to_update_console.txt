@@ -1,0 +1,22 @@
+"To update CFLHub Console to the latest version, please follow these steps:"
+
+"1. Click on the following link to be redirected to the GitHub Releases page: [CFLHub Console Releases](https://github.com/ArdiSalvi/CFLHubConsole/releases)."
+
+"2. Once you're on the GitHub Releases page, you'll find a list of available versions. Look for the latest version and locate the corresponding APK file."
+
+"3. Download the APK file by clicking on the download link provided. Rest assured, the file is completely safe and free from viruses."
+  
+"4. After the download is complete, locate the previously installed CFLHub Console app on your device."
+
+"5. Uninstall the old version of CFLHub Console from your device. This can typically be done by long-pressing the app icon and selecting the "Uninstall" or "Delete" option."
+
+"6. Once the old version is successfully uninstalled, navigate to the location where you downloaded the new APK file."
+
+"7. Tap on the newly downloaded APK file to initiate the installation process. You may need to grant permission to install apps from unknown sources if prompted."
+
+"8. Follow the on-screen instructions to complete the installation of the latest version of CFLHub Console."
+
+"9. Once the installation is complete, you can launch the newly updated CFLHub Console app and start enjoying all the new features and improvements."
+
+"Congratulations! You have successfully updated CFLHub Console to the latest version."
+"Please note that CFLHub Console does not currently support automatic updates. This means that you will need to manually follow the steps provided to download and install the latest version."
